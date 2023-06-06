@@ -1,4 +1,4 @@
-# Landscape Photos
+# World Wonders
 
 > A simple project to practice Git using terminal commands and VS Code.
 
