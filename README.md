@@ -1,6 +1,6 @@
 # World Wonders
 
-> A simple project to practice Git using terminal commands and VS Code.
+> A simple website project that uses a template redesigned by me to practice Git commands, Git Wokflows (including Git Flow), some resources from the VS Code IDE and GitHub itself.
 
 Big Picture by HTML5 UP
 
